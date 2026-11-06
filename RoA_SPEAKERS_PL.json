@@ -1,0 +1,214 @@
+{
+  "meta": {
+    "campaign": "RoA",
+    "source_kind": "speaker-name table supplied separately by user",
+    "source_lang": "enUS",
+    "target_lang": "plPL"
+  },
+  "strings": {
+    "N/A": {
+      "source": "N/A",
+      "translation": "Nie dotyczy"
+    },
+    "SYS": {
+      "source": "SYSTEM",
+      "translation": "SYSTEM"
+    },
+    "APR": {
+      "source": "Admiral Proudmoore",
+      "translation": "Admirał Proudmoore"
+    },
+    "APE": {
+      "source": "Aiden Perenolde",
+      "translation": "Aiden Perenolde"
+    },
+    "AFA": {
+      "source": "Alonsus Faol",
+      "translation": "Alonsus Faol"
+    },
+    "ALO": {
+      "source": "Anduin Lothar",
+      "translation": "Anduin Lothar"
+    },
+    "ANT": {
+      "source": "Antonidas",
+      "translation": "Antonidas"
+    },
+    "ART": {
+      "source": "Arthas",
+      "translation": "Arthas"
+    },
+    "RBL": {
+      "source": "Dal’Rend Blackhand",
+      "translation": "Rwij Czarnoręki"
+    },
+    "DTR": {
+      "source": "Danath Trollbane",
+      "translation": "Danath Zguba Trolli"
+    },
+    "DPR": {
+      "source": "Derek Proudmoore",
+      "translation": "Derek Proudmoore"
+    },
+    "DRE": {
+      "source": "Drenden",
+      "translation": "Drenden"
+    },
+    "DRO": {
+      "source": "Drunk Orc",
+      "translation": "Pijany ork"
+    },
+    "GTD": {
+      "source": "Gavinrad the Dire",
+      "translation": "Gawinrad Srogi"
+    },
+    "GGR": {
+      "source": "Genn Graymane",
+      "translation": "Genn Szarogrzywy"
+    },
+    "GRU": {
+      "source": "Grunt",
+      "translation": "Siepacz"
+    },
+    "KTH": {
+      "source": "Kel’Thuzad",
+      "translation": "Kel'Thuzad"
+    },
+    "KHA": {
+      "source": "Khadgar",
+      "translation": "Khadgar"
+    },
+    "KGU": {
+      "source": "Kings Guard",
+      "translation": "Gwardzista królewski"
+    },
+    "KRA": {
+      "source": "Krasus",
+      "translation": "Krasus"
+    },
+    "KWI": {
+      "source": "Kurdran Wildhammer",
+      "translation": "Kurdran Dziki Młot"
+    },
+    "LDC": {
+      "source": "Lord Darius Crowley",
+      "translation": "Lord Darius Crowley"
+    },
+    "MBL": {
+      "source": "Maim Blackhand",
+      "translation": "Szarp Czarnoręki"
+    },
+    "MAA": {
+      "source": "Man at Arms",
+      "translation": "Zbrojny"
+    },
+    "MAM": {
+      "source": "Mayor Marcus",
+      "translation": "Burmistrz Marcus"
+    },
+    "MER": {
+      "source": "Meryn",
+      "translation": "Meryn"
+    },
+    "MTS": {
+      "source": "Milan the Scribe",
+      "translation": "Milan Skryba"
+    },
+    "MOD": {
+      "source": "Modera",
+      "translation": "Modera"
+    },
+    "MBR": {
+      "source": "Muradin Bronzebeard",
+      "translation": "Muradin Miedziobrody"
+    },
+    "NTP": {
+      "source": "Nobbel the Pious",
+      "translation": "Nobbel Pobożny"
+    },
+    "OCA": {
+      "source": "Orc Captain",
+      "translation": "Kapitan orków"
+    },
+    "PEO": {
+      "source": "Peon",
+      "translation": "Peon"
+    },
+    "PRI": {
+      "source": "Prisoner",
+      "translation": "Jeniec"
+    },
+    "RDE": {
+      "source": "Regional Defender<br>",
+      "translation": "Obrońca krainy"
+    },
+    "RET": {
+      "source": "Retera",
+      "translation": "Retera"
+    },
+    "TGO": {
+      "source": "Teron Gorefiend",
+      "translation": "Teron Krwawy Bies"
+    },
+    "TTR": {
+      "source": "Thoras Trollbane",
+      "translation": "Thoras Zguba Trolli"
+    },
+    "TUR": {
+      "source": "Turalyon",
+      "translation": "Turalyon"
+    },
+    "UTL": {
+      "source": "Uther Lightbringer",
+      "translation": "Uther Światłodzierżca"
+    },
+    "USC": {
+      "source": "Utok Scratcher",
+      "translation": "Utok Bazgracz"
+    },
+    "VWR": {
+      "source": "Varian Wrynn",
+      "translation": "Varian Wrynn"
+    },
+    "WIL": {
+      "source": "Wilhelm",
+      "translation": "Wilhelm"
+    },
+    "ZTW": {
+      "source": "Zuluhed the Whacked",
+      "translation": "Zuluhed Szalony"
+    },
+    "TME": {
+      "source": "Terenas Menethil II",
+      "translation": "Terenas Menethil II"
+    },
+    "ODO": {
+      "source": "Orgrim Doomhammer",
+      "translation": "Orgrim Zgładziciel"
+    },
+    "THA": {
+      "source": "Tharbek",
+      "translation": "Tharbek"
+    },
+    "KOG": {
+      "source": "Korkron Orge Guard",
+      "translation": "Ogrzy strażnik Kor'kronu"
+    },
+    "ECA": {
+      "source": "Elven Captain",
+      "translation": "Kapitan elfów"
+    },
+    "KSU": {
+      "source": "Kael'thas Sunstrider",
+      "translation": "Kael'thas Słońcobieżca"
+    },
+    "OPI": {
+      "source": "Orc Pirate",
+      "translation": "Orczy pirat"
+    },
+    "KAS": {
+      "source": "Kurdran and Sky'ree",
+      "translation": "Kurdran i Sky'ree"
+    }
+  }
+}
