@@ -1,6 +1,6 @@
 ﻿STRING 1
 {
-Rise of the Alliance
+Rise of the Alliance 1.03 PL 0.2
 }
 
 STRING 2
@@ -3020,7 +3020,7 @@ Snowcap
 
 STRING 992
 {
-Pig Farm
+Chlewnia
 }
 
 STRING 993
@@ -3040,7 +3040,7 @@ Snowcap
 
 STRING 996
 {
-Troll Lumber Mill
+Tartak trolli
 }
 
 STRING 997
@@ -3110,7 +3110,7 @@ Snowcap
 
 STRING 1010
 {
-Ogre Mound
+Ogrza jama
 }
 
 STRING 1011
@@ -3120,7 +3120,7 @@ Snowcap
 
 STRING 1012
 {
-Goblin Alchemist
+Laboratorium goblinów
 }
 
 STRING 1013
@@ -6163,7 +6163,7 @@ Furia
 
 STRING 1690
 {
-Rage
+Furia
 }
 
 STRING 1691
@@ -7044,7 +7044,7 @@ This unit is Feared; it cannot preform attacks or spells and will run from comba
 
 STRING 1939
 {
-Rage
+Furia
 }
 
 STRING 1942
@@ -7069,7 +7069,7 @@ STRING 1946
 
 STRING 1947
 {
-Undead
+Nieumarły
 }
 
 STRING 1949
@@ -7204,7 +7204,7 @@ Superior Ogre Magi Training
 
 STRING 1985
 {
-Ogre Magi Training
+Szkolenie Ogrzych Magów
 }
 
 STRING 1986
@@ -7504,7 +7504,7 @@ Długi Łuk
 
 STRING 2053
 {
-Longbow
+Długi Łuk
 }
 
 STRING 2055
@@ -9541,7 +9541,7 @@ Ciska błyskawicą, która przeskakuje maksymalnie <A642:ACcl,DataB1> razy. Zada
 
 STRING 2926
 {
-Hurls a bolt of lightning that bounces up to <A642:ACcl,DataB2> times, dealing <A642:ACcl,DataA2> damage to the primary target. Each jump deals less damage.
+Ciska błyskawicą, która przeskakuje maksymalnie <A642:ACcl,DataB2> razy. Zadaje głównemu celowi <A642:ACcl,DataA2> pkt. obrażeń. Z każdym przeskokiem obrażenia maleją.
 }
 
 STRING 2929
@@ -9632,6 +9632,8 @@ Shirt of Knowledge
 STRING 3012
 {
 Sir Lothar, dowodzący rozproszonymi armiami Azeroth od śmierci króla Llane'a, poprowadził swój lud przez Wielkie Morze ku brzegom Lordaeronu.
+
+Tłumaczenie na język polski: Arkadiusz Grzanka - LitheDude (Discord: lithelabs)
 }
 
 STRING 3014
@@ -9786,7 +9788,7 @@ Wskrześ kapitana
 
 STRING 3060
 {
-Revive Captain
+Wskrześ kapitana
 }
 
 STRING 3062
@@ -9796,12 +9798,12 @@ Danath Zguba Trolli
 
 STRING 3064
 {
-Revive Captain
+Wskrześ kapitana
 }
 
 STRING 3065
 {
-Revive Captain
+Wskrześ kapitana
 }
 
 STRING 3066
@@ -13632,7 +13634,7 @@ STRING 3928
 
 STRING 3929
 {
-Chest
+Skrzynia
 }
 
 STRING 3930
@@ -13957,7 +13959,7 @@ STRING 3994
 
 STRING 3995
 {
-Vase
+Wazon
 }
 
 STRING 3996
@@ -13967,7 +13969,7 @@ STRING 3996
 
 STRING 3997
 {
-Vase
+Wazon
 }
 
 STRING 3998
@@ -15187,7 +15189,7 @@ Demonic Standard
 
 STRING 4241
 {
-Knight Statue
+Posąg rycerza
 }
 
 STRING 4242
@@ -15557,7 +15559,7 @@ Królewska Aura
 
 STRING 4321
 {
-Royal Aura
+Królewska Aura
 }
 
 STRING 4331
@@ -15677,7 +15679,7 @@ Kapitan
 
 STRING 4360
 {
-Captain
+Kapitan
 }
 
 STRING 4361
@@ -15747,7 +15749,7 @@ STRING 4378
 
 STRING 4379
 {
-Holy Defense
+Święta Obrona
 }
 
 STRING 4380
@@ -15848,12 +15850,12 @@ Konsekracja - [|cffffcc00Poziom 3|r]
 
 STRING 4437
 {
-Consecration
+Konsekracja
 }
 
 STRING 4438
 {
-Consecration
+Konsekracja
 }
 
 STRING 4441
@@ -16003,12 +16005,12 @@ Q
 
 STRING 4483
 {
-Iron Feathers
+Żelazne Pióra
 }
 
 STRING 4488
 {
-Battleship
+Pancernik
 }
 
 STRING 4489
@@ -16138,7 +16140,7 @@ Poznaj: Sieci Rybackie
 
 STRING 4537
 {
-Fishnets
+Sieci Rybackie
 }
 
 STRING 4540
@@ -16173,7 +16175,7 @@ Daje <ADpE,DataD2,%>% szans na uniknięcie ataku oraz <ADpE,DataA2>% szans na za
 
 STRING 4555
 {
-Gives a <ADpE,DataD2,%>% chance to dodge an attack and a <ADpE,DataA2>% chance to deal <ADpE,DataB2> times normal damage.
+Daje <ADpE,DataD2,%>% szans na uniknięcie ataku oraz <ADpE,DataA2>% szans na zadanie <ADpE,DataB2>-krotnych obrażeń.
 }
 
 STRING 4566
@@ -16188,7 +16190,7 @@ Róg Stromgardu
 
 STRING 4569
 {
-Horn of Stromgarde
+Róg Stromgardu
 }
 
 STRING 4573
@@ -16208,7 +16210,7 @@ Przywołuje 6 królewskich gwardzistów Stromgardu, którzy walczą u boku Danat
 
 STRING 4577
 {
-Summon 6 Stromgarde Royal Guards to aid Danath. Summon is permanent.
+Przywołuje 6 królewskich gwardzistów Stromgardu, którzy walczą u boku Danatha. Przywołane jednostki pozostają na stałe.
 }
 
 STRING 4578
@@ -16273,7 +16275,7 @@ Danath uderza wrogów tarczą. |n|n|cffffcc00Poziom 1|r - <ADsb,DataA1> pkt. obr
 
 STRING 4591
 {
-Captain
+Kapitan
 }
 
 STRING 4592
@@ -16283,12 +16285,12 @@ Danath Zguba Trolli
 
 STRING 4593
 {
-Revive Captain
+Wskrześ kapitana
 }
 
 STRING 4594
 {
-Revive Captain
+Wskrześ kapitana
 }
 
 STRING 4595
@@ -16333,12 +16335,12 @@ W
 
 STRING 4608
 {
-For Stromgarde
+Za Stromgard!
 }
 
 STRING 4609
 {
-For Stromgarde
+Za Stromgard!
 }
 
 STRING 4611
@@ -16483,7 +16485,7 @@ STRING 4654
 
 STRING 4655
 {
-Grenade Toss
+Rzut Granatem
 }
 
 STRING 4656
@@ -16744,7 +16746,7 @@ Poznaj: Święta Burza
 
 STRING 4725
 {
-Holy Storm
+Święta Burza
 }
 
 STRING 4726
@@ -16764,7 +16766,7 @@ Holy Storm (Effect)
 
 STRING 4730
 {
-Holy Storm
+Święta Burza
 }
 
 STRING 4731
@@ -16904,7 +16906,7 @@ Burza Tajemnej Magii
 
 STRING 4770
 {
-Arcane Storm
+Burza Tajemnej Magii
 }
 
 STRING 4771
@@ -16934,7 +16936,7 @@ Learn Arcane Storm - [|cffffcc00Level %d|r]
 
 STRING 4784
 {
-Arcane Storm
+Burza Tajemnej Magii
 }
 
 STRING 4785
@@ -17239,7 +17241,7 @@ R
 
 STRING 4868
 {
-Lion Song
+Pieśń Lwa
 }
 
 STRING 4870
@@ -17309,7 +17311,7 @@ Od Miecza
 
 STRING 4884
 {
-Die by the Sword
+Od Miecza
 }
 
 STRING 4885
@@ -17379,12 +17381,12 @@ W
 
 STRING 4899
 {
-Punishing Blow
+Karzący Cios
 }
 
 STRING 4900
 {
-Punishing Blow
+Karzący Cios
 }
 
 STRING 4902
@@ -17449,7 +17451,7 @@ Aura Zemsty
 
 STRING 4917
 {
-Vengeance Aura
+Aura Zemsty
 }
 
 STRING 4918
@@ -17464,12 +17466,12 @@ Jednostka znajduje się pod wpływem Aury Zemsty. Jej ataki wręcz zadają więk
 
 STRING 4920
 {
-Vengeance Aura
+Aura Zemsty
 }
 
 STRING 4921
 {
-Vengeance Aura
+Aura Zemsty
 }
 
 STRING 4922
@@ -17494,17 +17496,17 @@ Słowo Leczenia
 
 STRING 4927
 {
-Healing Word
+Słowo Leczenia
 }
 
 STRING 4930
 {
-Healing Word
+Słowo Leczenia
 }
 
 STRING 4932
 {
-Healing Word
+Słowo Leczenia
 }
 
 STRING 4933
@@ -17669,12 +17671,12 @@ This unit has Sacred Blessing; it has attack damage.
 
 STRING 4987
 {
-Crusader Strike
+Cios Krzyżowca
 }
 
 STRING 4988
 {
-Crusader Strike
+Cios Krzyżowca
 }
 
 STRING 4989
@@ -17714,7 +17716,7 @@ STRING 4999
 
 STRING 5001
 {
-Holy Lance
+Święta Lanca
 }
 
 STRING 5004
@@ -17754,7 +17756,7 @@ STRING 5012
 
 STRING 5013
 {
-Second Chance
+Druga Szansa
 }
 
 STRING 5014
@@ -17959,12 +17961,12 @@ Poznaj: Bohaterski Skok - [|cffffcc00Poziom %d|r]
 
 STRING 5061
 {
-Heroic Leap - [|cffffcc00Level 1|r]
+Bohaterski Skok - [|cffffcc00Poziom 1|r]
 }
 
 STRING 5062
 {
-Heroic Leap - [|cffffcc00Level 1|r]
+Bohaterski Skok - [|cffffcc00Poziom 1|r]
 }
 
 STRING 5065
@@ -18009,12 +18011,12 @@ Uderzenie Bohaterskiego Skoku
 
 STRING 5084
 {
-Heroic Leap
+Bohaterski Skok
 }
 
 STRING 5085
 {
-Heroic Leap
+Bohaterski Skok
 }
 
 STRING 5086
@@ -18034,7 +18036,7 @@ STRING 5088
 
 STRING 5089
 {
-Lion Song
+Pieśń Lwa
 }
 
 STRING 5090
@@ -18069,7 +18071,7 @@ Długie Ostrza
 
 STRING 5107
 {
-Long Blades
+Długie Ostrza
 }
 
 STRING 5108
@@ -18079,7 +18081,7 @@ STRING 5108
 
 STRING 5109
 {
-Battleship
+Pancernik
 }
 
 STRING 5110
@@ -18389,17 +18391,17 @@ Wilhelm wydaje okrzyk bojowy, który zmniejsza obrażenia od ataku pobliskich wr
 
 STRING 5172
 {
-Captain
+Kapitan
 }
 
 STRING 5173
 {
-Revive Captain
+Wskrześ kapitana
 }
 
 STRING 5174
 {
-Revive Captain
+Wskrześ kapitana
 }
 
 STRING 5175
@@ -18459,12 +18461,12 @@ Change Stance
 
 STRING 5192
 {
-Land
+Ląduj
 }
 
 STRING 5193
 {
-Take Wing
+Wzbij się w powietrze
 }
 
 STRING 5195
@@ -18569,12 +18571,12 @@ Lower Shield
 
 STRING 5225
 {
-Shield of the Righteous
+Tarcza Sprawiedliwego
 }
 
 STRING 5226
 {
-Shield of the Righteous
+Tarcza Sprawiedliwego
 }
 
 STRING 5227
@@ -18904,7 +18906,7 @@ Wskrześ arcymaga
 
 STRING 5314
 {
-Revive Archmage
+Wskrześ arcymaga
 }
 
 STRING 5315
@@ -19079,7 +19081,7 @@ Wielki Tan
 
 STRING 5369
 {
-High Thane
+Wielki Tan
 }
 
 STRING 5370
@@ -19299,7 +19301,7 @@ Revive Elven Mage
 
 STRING 5420
 {
-Archmage
+Arcymag
 }
 
 STRING 5421
@@ -19309,12 +19311,12 @@ Krasus
 
 STRING 5422
 {
-Revive Archmage
+Wskrześ arcymaga
 }
 
 STRING 5423
 {
-Revive Archmage
+Wskrześ arcymaga
 }
 
 STRING 5424
@@ -19359,7 +19361,7 @@ Ognisty Pocisk
 
 STRING 5439
 {
-Fire Bolt
+Ognisty Pocisk
 }
 
 STRING 5440
@@ -19394,7 +19396,7 @@ Poznaj: Ognisty Pocisk - [|cffffcc00Poziom %d|r]
 
 STRING 5461
 {
-Fire Bolt
+Ognisty Pocisk
 }
 
 STRING 5466
@@ -19718,7 +19720,7 @@ Spirit Bridge
 
 STRING 5549
 {
-Revive Captain
+Wskrześ kapitana
 }
 
 STRING 5553
@@ -19773,7 +19775,7 @@ Volumetric Fog Cloud
 
 STRING 5565
 {
-Battleship
+Pancernik
 }
 
 STRING 5566
@@ -19898,7 +19900,7 @@ STRING 5598
 
 STRING 5599
 {
-Blood of the Highborn
+Krew Wysoko Urodzonych
 }
 
 STRING 5600
@@ -19968,7 +19970,7 @@ Wskrześ profesora
 
 STRING 5620
 {
-Revive Professor
+Wskrześ profesora
 }
 
 STRING 5621
@@ -20058,7 +20060,7 @@ Bamboozling (Effect)
 
 STRING 5653
 {
-Bamboozling
+Owczy Pęd
 }
 
 STRING 5654
@@ -20068,7 +20070,7 @@ STRING 5654
 
 STRING 5655
 {
-Bamboozling
+Owczy Pęd
 }
 
 STRING 5656
@@ -20148,7 +20150,7 @@ STRING 5672
 
 STRING 5676
 {
-Triangulation
+Triangulacja
 }
 
 STRING 5677
@@ -20163,7 +20165,7 @@ E
 
 STRING 5679
 {
-Triangulation
+Triangulacja
 }
 
 STRING 5681
@@ -20768,7 +20770,7 @@ STRING 5843
 
 STRING 5844
 {
-Lord Paladin
+Lord Paladyn
 }
 
 STRING 5845
@@ -20788,7 +20790,7 @@ STRING 5848
 
 STRING 5849
 {
-Paladin of Protection
+Paladyn Obrońca
 }
 
 STRING 5850
@@ -20808,7 +20810,7 @@ STRING 5853
 
 STRING 5854
 {
-Lord Paladin
+Lord Paladyn
 }
 
 STRING 5855
@@ -20954,17 +20956,17 @@ Poznaj: Trwała Polimorfia
 
 STRING 5892
 {
-Permanent Polymorph
+Trwała Polimorfia
 }
 
 STRING 5895
 {
-Summon Ram
+Przywołanie Baranów
 }
 
 STRING 5896
 {
-Summon Ram
+Przywołanie Baranów
 }
 
 STRING 5897
@@ -20984,7 +20986,7 @@ Na stałe przemienia wskazanego wroga w owcę. |nNie działa na bohaterów.
 
 STRING 5902
 {
-Turns a target enemy unit into a sheep permanently. |nCannot be cast on Heroes.
+Na stałe przemienia wskazanego wroga w owcę. |nNie działa na bohaterów.
 }
 
 STRING 5904
@@ -22378,7 +22380,7 @@ Train Stormcaller
 
 STRING 6234
 {
-Catapult
+Katapulta
 }
 
 STRING 6235
@@ -22998,12 +23000,12 @@ Deathwing moves on its feet on the ground.
 
 STRING 6361
 {
-Land
+Ląduj
 }
 
 STRING 6362
 {
-Take Wing
+Wzbij się w powietrze
 }
 
 STRING 6363
@@ -24658,7 +24660,7 @@ STRING 6798
 
 STRING 6799
 {
-Grenade Toss
+Rzut Granatem
 }
 
 STRING 6800
@@ -24668,7 +24670,7 @@ Q
 
 STRING 6802
 {
-Grenade Toss
+Rzut Granatem
 }
 
 STRING 6803
@@ -26188,7 +26190,7 @@ Q
 
 STRING 7149
 {
-Longbow
+Długi Łuk
 }
 
 STRING 7151
@@ -26493,7 +26495,7 @@ Once a knight of the Kingdom of Azeroth, he fought the orcs and defended Stormwi
 
 STRING 7228
 {
-Revive Chronicler
+Wskrześ kronikarza
 }
 
 STRING 7229
@@ -27011,7 +27013,7 @@ STRING 7354
 
 STRING 7355
 {
-Healing Prayer
+Modlitwa Leczenia
 }
 
 STRING 7356
@@ -27051,7 +27053,7 @@ Zmniejsza pancerz wskazanego wroga o <ABMh,DataA1> pkt. i zapewnia widoczność 
 
 STRING 7363
 {
-Healing Prayer
+Modlitwa Leczenia
 }
 
 STRING 7364
@@ -27061,7 +27063,7 @@ STRING 7364
 
 STRING 7365
 {
-Healing Prayer
+Modlitwa Leczenia
 }
 
 STRING 7366
@@ -27071,7 +27073,7 @@ This unit has heard Healing Prayer; it is healing hit points over time.
 
 STRING 7367
 {
-Mark of the Heretic
+Piętno Heretyka
 }
 
 STRING 7368
@@ -27081,7 +27083,7 @@ STRING 7368
 
 STRING 7369
 {
-Mark of the Heretic
+Piętno Heretyka
 }
 
 STRING 7370
@@ -27291,17 +27293,17 @@ Monarcha
 
 STRING 7413
 {
-Monarch
+Monarcha
 }
 
 STRING 7414
 {
-Monarch
+Monarcha
 }
 
 STRING 7415
 {
-Mark of the Heretic
+Piętno Heretyka
 }
 
 STRING 7416
@@ -27361,7 +27363,7 @@ High Thane of the Wildhammer dwarves, mounted on his loyal gryphon Sky'ree. Adep
 
 STRING 7439
 {
-High Thane
+Wielki Tan
 }
 
 STRING 7440
@@ -27371,7 +27373,7 @@ Kurdran i Sky'ree
 
 STRING 7442
 {
-High Thane
+Wielki Tan
 }
 
 STRING 7443
@@ -27381,7 +27383,7 @@ Kurdran i Sky'ree
 
 STRING 7445
 {
-High Thane
+Wielki Tan
 }
 
 STRING 7446
@@ -27441,12 +27443,12 @@ Sky'ree wzbija się w powietrze.
 
 STRING 7457
 {
-Sky'ree lands on the ground.
+Sky'ree ląduje na ziemi.
 }
 
 STRING 7458
 {
-Sky'ree takes wing and flies in the sky.
+Sky'ree wzbija się w powietrze.
 }
 
 STRING 7459
@@ -27566,7 +27568,7 @@ STRING 7487
 
 STRING 7488
 {
-Veteran Skills
+Doświadczenie Weterana
 }
 
 STRING 7489
@@ -27673,7 +27675,7 @@ STRING 7511
 
 STRING 7512
 {
-Battleship
+Pancernik
 }
 
 STRING 7513
@@ -27698,7 +27700,7 @@ STRING 7515
 
 STRING 7516
 {
-Battleship
+Pancernik
 }
 
 STRING 7517
@@ -27848,7 +27850,7 @@ A
 
 STRING 7546
 {
-Battleship
+Pancernik
 }
 
 STRING 7547
@@ -28301,7 +28303,7 @@ STRING 7676
 
 STRING 7680
 {
-Increases attack range by 200.
+Zwiększa zasięg ataku o 200.
 }
 
 STRING 7681
@@ -28311,7 +28313,7 @@ Causes a target enemy unit to be bound to the ground so that it cannot move for 
 
 STRING 7682
 {
-Increases attack range by 200.
+Zwiększa zasięg ataku o 200.
 }
 
 STRING 7683
@@ -28667,7 +28669,7 @@ Damage per Second: |cffffcc00<APFS,DataA1>|r
 
 STRING 7753
 {
-Increases attack range by 200.
+Zwiększa zasięg ataku o 200.
 }
 
 STRING 7754
@@ -28717,7 +28719,7 @@ Derek strzela do wroga, zadając <AdSp,DataA3> pkt. obrażeń i ogłuszając go 
 
 STRING 7763
 {
-Arcane Storm
+Burza Tajemnej Magii
 }
 
 STRING 7764
@@ -28901,7 +28903,7 @@ Amulet Matki Przypływów
 
 STRING 7821
 {
-Amulet of the Tidemother
+Amulet Matki Przypływów
 }
 
 STRING 7822
@@ -29514,12 +29516,12 @@ Szkolenie Milana
 
 STRING 7960
 {
-Milan's Training
+Szkolenie Milana
 }
 
 STRING 7961
 {
-Milan's Training
+Szkolenie Milana
 }
 
 STRING 7962
@@ -29610,122 +29612,122 @@ STRING 7987
 
 STRING 7988
 {
-Milan's Training
+Szkolenie Milana
 }
 
 STRING 7989
 {
-Milan's Training
+Szkolenie Milana
 }
 
 STRING 7990
 {
-Milan's Training
+Szkolenie Milana
 }
 
 STRING 7991
 {
-Milan's Training
+Szkolenie Milana
 }
 
 STRING 7992
 {
-Milan's Training
+Szkolenie Milana
 }
 
 STRING 7993
 {
-Milan's Training
+Szkolenie Milana
 }
 
 STRING 7994
 {
-Milan's Training
+Szkolenie Milana
 }
 
 STRING 7995
 {
-Milan's Training
+Szkolenie Milana
 }
 
 STRING 7996
 {
-Milan's Training
+Szkolenie Milana
 }
 
 STRING 7997
 {
-Milan's Training
+Szkolenie Milana
 }
 
 STRING 7998
 {
-Milan's Training
+Szkolenie Milana
 }
 
 STRING 7999
 {
-Milan's Training
+Szkolenie Milana
 }
 
 STRING 8000
 {
-Milan's Training
+Szkolenie Milana
 }
 
 STRING 8001
 {
-Milan's Training
+Szkolenie Milana
 }
 
 STRING 8002
 {
-Milan's Training
+Szkolenie Milana
 }
 
 STRING 8003
 {
-Milan's Training
+Szkolenie Milana
 }
 
 STRING 8004
 {
-Milan's Training
+Szkolenie Milana
 }
 
 STRING 8005
 {
-Milan's Training
+Szkolenie Milana
 }
 
 STRING 8006
 {
-Milan's Training
+Szkolenie Milana
 }
 
 STRING 8007
 {
-Milan's Training
+Szkolenie Milana
 }
 
 STRING 8008
 {
-Milan's Training
+Szkolenie Milana
 }
 
 STRING 8009
 {
-Milan's Training
+Szkolenie Milana
 }
 
 STRING 8010
 {
-Milan's Training
+Szkolenie Milana
 }
 
 STRING 8011
 {
-Milan's Training
+Szkolenie Milana
 }
 
 STRING 8016
@@ -29825,12 +29827,12 @@ Hide
 
 STRING 8040
 {
-Firebolt - [|cffffcc00Level 2|r]
+Ognisty Pocisk - [|cffffcc00Poziom 2|r]
 }
 
 STRING 8041
 {
-Firebolt - [|cffffcc00Level 3|r]
+Ognisty Pocisk - [|cffffcc00Poziom 3|r]
 }
 
 STRING 8042
@@ -29840,7 +29842,7 @@ Ognisty Pocisk - [|cffffcc00Poziom 4|r]
 
 STRING 8043
 {
-Firebolt - [|cffffcc00Level 1|r]
+Ognisty Pocisk - [|cffffcc00Poziom 1|r]
 }
 
 STRING 8044
@@ -29909,7 +29911,7 @@ STRING 8057
 
 STRING 8058
 {
-Riposte
+Riposta
 }
 
 STRING 8059
@@ -29964,12 +29966,12 @@ Stinking Cloud
 
 STRING 8074
 {
-Riposte
+Riposta
 }
 
 STRING 8075
 {
-Riposte
+Riposta
 }
 
 STRING 8076
@@ -30555,7 +30557,7 @@ Uczony,Sługa,Giermek,Kronikarz,Kapral,Sierżant,Porucznik,Kapitan,Dowódca,Majo
 
 STRING 8198
 {
-Scholar,Servant,Squire,Chronicler,Corporal,Sergeant,Lieutenant,Captain,Commander,Major,Colonel,Marshal,Field Marshal,Seneschal,Royal Advisor
+Uczony,Sługa,Giermek,Kronikarz,Kapral,Sierżant,Porucznik,Kapitan,Dowódca,Major,Pułkownik,Marszałek,Feldmarszałek,Seneszal,Doradca króla
 }
 
 STRING 8199
@@ -30716,7 +30718,7 @@ Revive Lord Paladin
 
 STRING 8231
 {
-Paladin of Protection
+Paladyn Obrońca
 }
 
 STRING 8232
@@ -32071,7 +32073,7 @@ Versatile ranged soldier. |n|n|cffffcc00Abilities:|r Defend, Ensnare.|nUnlocked 
 
 STRING 8513
 {
-Versatile ranged soldier. |n|n|cffffcc00Abilities:|r Longbow.|nUnlocked by upgrade - Imrpoved Ranged Weapons. |n|n|cffffcc00Attacks land and air units.|r
+Wszechstronny żołnierz walczący na dystans. |n|n|cffffcc00Zdolności:|r Długi Łuk.|nDostępny po opracowaniu Ulepszonej Broni Dystansowej. |n|n|cffffcc00Atakuje jednostki naziemne i latające.|r
 }
 
 STRING 8514
@@ -32225,7 +32227,7 @@ M
 
 STRING 8545
 {
-Troll Destroyer
+Niszczyciel trolli
 }
 
 STRING 8546
@@ -32256,7 +32258,7 @@ STRING 8550
 
 STRING 8551
 {
-Troll Axethrower
+Troll miotacz toporów
 }
 
 STRING 8552
@@ -32282,7 +32284,7 @@ R
 
 STRING 8556
 {
-Catapult
+Katapulta
 }
 
 STRING 8557
@@ -32302,7 +32304,7 @@ Long-range siege weaponry. Devastating against buildings and effective against g
 
 STRING 8560
 {
-Ogre
+Ogr
 }
 
 STRING 8561
@@ -32323,12 +32325,12 @@ STRING 8563
 
 STRING 8564
 {
-Apprentice, Adept, Master
+Uczeń, Adept, Mistrz
 }
 
 STRING 8565
 {
-- Eye of Kilrogg,- Eye of Kilrogg|n- Bloodlust,- Eye of Kilrogg|n- Bloodlust|n- Runes
+- Oko Kilrogga,- Oko Kilrogga|n- Żądza Krwi,- Oko Kilrogga|n- Żądza Krwi|n- Runy
 }
 
 STRING 8566
@@ -32353,7 +32355,7 @@ STRING 8569
 
 STRING 8570
 {
-Goblin Sappers
+Goblińscy saperzy
 }
 
 STRING 8571
@@ -32368,7 +32370,7 @@ The mischievous Goblin Sappers are known throughout the Horde for their incredib
 
 STRING 8573
 {
-Death Knight
+Rycerz śmierci
 }
 
 STRING 8574
@@ -32383,12 +32385,12 @@ Train Death Knight
 
 STRING 8576
 {
-- Touch of Darkness|n- Rise dead,- Touch of Darkness|n- Rise dead|n- Death Coil|n-Unholy Armor,- Touch of Darkness|n- Rise dead|n- Death Coil|n-Unholy Armor|n- Death and Decay|n- Haste,- Touch of Darkness|n- Rise dead|n- Death Coil|n-Unholy Armor|n- Death and Decay|n- Haste|n- Whirlwind
+- Dotyk Ciemności|n- Ożywienie Zmarłych,- Dotyk Ciemności|n- Ożywienie Zmarłych|n- Spirala Śmierci|n- Nieświęty Pancerz,- Dotyk Ciemności|n- Ożywienie Zmarłych|n- Spirala Śmierci|n- Nieświęty Pancerz|n- Śmierć i Rozkład|n- Przyspieszenie,- Dotyk Ciemności|n- Ożywienie Zmarłych|n- Spirala Śmierci|n- Nieświęty Pancerz|n- Śmierć i Rozkład|n- Przyspieszenie|n- Wir
 }
 
 STRING 8577
 {
-Initiate, Adept, Master, Necromancer
+Nowicjusz, Adept, Mistrz, Nekromanta
 }
 
 STRING 8578
@@ -32414,7 +32416,7 @@ STRING 8581
 
 STRING 8582
 {
-Brute
+Brutal
 }
 
 STRING 8583
@@ -32476,7 +32478,7 @@ STRING 8593
 
 STRING 8594
 {
-Bonecrusher
+Miażdżyciel kości
 }
 
 STRING 8595

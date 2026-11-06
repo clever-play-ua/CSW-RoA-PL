@@ -283,7 +283,7 @@ STRING 2960
 STRING 2961
 // Units: n00N (Lordaeron City Building), Name (Name)
 {
-Lordaeron City Building
+Budynek Lordaeronu
 }
 
 STRING 2962
@@ -295,7 +295,7 @@ STRING 2962
 STRING 2963
 // Units: n00O (Lordaeron City Building), Name (Name)
 {
-Lordaeron City Building
+Budynek Lordaeronu
 }
 
 STRING 2964
@@ -307,13 +307,13 @@ STRING 2964
 STRING 2965
 // Units: n00P (Lordaeron City Building), Name (Name)
 {
-Lordaeron City Building
+Budynek Lordaeronu
 }
 
 STRING 2966
 // Units: n00Q (Lordaeron City Building), Name (Name)
 {
-Lordaeron City Building
+Budynek Lordaeronu
 }
 
 STRING 2967
@@ -325,7 +325,7 @@ STRING 2967
 STRING 2968
 // Units: n00R (Lordaeron City Building), Name (Name)
 {
-Lordaeron City Building
+Budynek Lordaeronu
 }
 
 STRING 2969
@@ -337,7 +337,7 @@ STRING 2969
 STRING 2970
 // Units: n00S (Lordaeron City Building), Name (Name)
 {
-Lordaeron City Building
+Budynek Lordaeronu
 }
 
 STRING 3027
@@ -355,7 +355,7 @@ Guard Tower (|cffffcc00G|r)
 STRING 3030
 // Units: hLgF (Lordaeron Guard Tower), Name (Name)
 {
-Lordaeron Guard Tower
+Wieża strażnicza Lordaeronu
 }
 
 STRING 3080
@@ -685,12 +685,12 @@ Znajdź księcia Arthasa
 
 STRING 3794
 {
-Terenas must survive
+Terenas musi przeżyć
 }
 
 STRING 3795
 {
-Uther must survive
+Uther musi przeżyć
 }
 
 STRING 3797
@@ -2445,7 +2445,7 @@ Odbij dolne miasto
 
 STRING 4194
 {
-Remaining enemies:
+Pozostali wrogowie:
 }
 
 STRING 4196
@@ -2457,7 +2457,7 @@ Wyzwolenie Miasta
 
 STRING 4198
 {
-All Heroes must survive
+Wszyscy bohaterowie muszą przeżyć
 }
 
 STRING 4201
@@ -2472,12 +2472,12 @@ Mieszkańcy Lordaeronu
 
 STRING 4203
 {
-Remaining enemies:
+Pozostali wrogowie:
 }
 
 STRING 4205
 {
-Remaining enemies:
+Pozostali wrogowie:
 }
 
 STRING 4207
@@ -2540,49 +2540,49 @@ Rezydencja wysokich elfów
 STRING 4217
 // Units: nef1 (High Elven Manor), Name (Name)
 {
-High Elven Manor
+Rezydencja wysokich elfów
 }
 
 STRING 4218
 // Units: nef2 (High Elven Manor), Name (Name)
 {
-High Elven Manor
+Rezydencja wysokich elfów
 }
 
 STRING 4219
 // Units: nef3 (High Elven Manor), Name (Name)
 {
-High Elven Manor
+Rezydencja wysokich elfów
 }
 
 STRING 4220
 // Units: nef4 (High Elven Manor), Name (Name)
 {
-High Elven Manor
+Rezydencja wysokich elfów
 }
 
 STRING 4221
 // Units: nef5 (High Elven Manor), Name (Name)
 {
-High Elven Manor
+Rezydencja wysokich elfów
 }
 
 STRING 4222
 // Units: nef6 (High Elven Manor), Name (Name)
 {
-High Elven Manor
+Rezydencja wysokich elfów
 }
 
 STRING 4223
 // Units: nef7 (High Elven Manor), Name (Name)
 {
-High Elven Manor
+Rezydencja wysokich elfów
 }
 
 STRING 4224
 // Units: nefm (High Elven Manor), Name (Name)
 {
-High Elven Manor
+Rezydencja wysokich elfów
 }
 
 STRING 4225
@@ -2599,7 +2599,7 @@ Pozostałe gruzowiska
 
 STRING 4228
 {
-Quest objectives
+Cele zadania
 }
 
 STRING 4229

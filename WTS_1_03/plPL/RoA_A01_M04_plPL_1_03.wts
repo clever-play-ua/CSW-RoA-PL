@@ -1350,12 +1350,12 @@ Zniszcz obóz Krwawych Skrybów.
 
 STRING 2702
 {
-Lothar must survive.
+Lothar musi przeżyć.
 }
 
 STRING 2703
 {
-Danath must survive.
+Danath musi przeżyć.
 }
 
 STRING 2708
@@ -1744,7 +1744,7 @@ Zabezpiecz wybrzeże
 
 STRING 2816
 {
-Remaining enemies:
+Pozostali wrogowie:
 }
 
 STRING 2817
@@ -1976,7 +1976,7 @@ Flagi do kręgu:
 
 STRING 2878
 {
-Flags to put in a circle:
+Flagi do kręgu:
 }
 
 STRING 2879
@@ -2895,7 +2895,7 @@ Zbuduj 4 platformy wiertnicze (zbudowano 3 z 4).
 
 STRING 3138
 {
-Build 4 Oil Plarforms.
+Zbuduj 4 platformy wiertnicze.
 }
 
 STRING 3139
